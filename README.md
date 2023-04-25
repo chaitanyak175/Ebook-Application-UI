@@ -7,11 +7,7 @@
 The Books included in the app are provided by the google books api.
 <br>
 
-<br>
 
-## [**Click here to download the apk**](https://github.com/cyblogerz/Zippy-elibrary/releases/download/v/app-release.apk)  
-<br>
-<br>
 
 
 ## 💻 Requirements
