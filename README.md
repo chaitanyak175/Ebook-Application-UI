@@ -1,9 +1,4 @@
-# 📖📖 Zippy - Flutter eLibrary App  
 
-<p align="center"><a href="https://cyblogerz.github.io"><img width="100%" alt="Zippy-elibrary" src="./readme-assets/header.png" /></a></p>
-
- 
-## A simple Flutter app to explore books. 
 
 
 
